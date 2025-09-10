@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: https://crescendofluffy.github.io/QR-Code-Component/
+- Live Site URL: https://adityakrishnamurthy.github.io/QR-Code-Component/
 
 ## My process
 
@@ -41,6 +41,7 @@ CSS Positioning and Custom Font Styles with Google Fonts
 
 ## Author
 
-- GitHub - [Aditya K](https://github.com/CrescendoFluffy)
+- GitHub - [Aditya K](https://github.com/AdityaKrishnamurthy)
 - Frontend Mentor - [@CrescendoFluffy](https://www.frontendmentor.io/profile/CrescendoFluffy)
+
 
